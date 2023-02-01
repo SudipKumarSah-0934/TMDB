@@ -12,4 +12,4 @@ https://developers.themoviedb.org/4/getting-started/authorization
 Flutter offers [stateful hot reload][Hot reload], allowing you to make changes to your code
 and see the results instantly without restarting your app or losing its state.
 
-[Hot reload animation]: (https://github.com/SudipKumarSah-0934/TMDB/blob/master/Screenrecorder-2023-02-01-18-25-38-854.mp4)
+https://github.com/SudipKumarSah-0934/TMDB/blob/master/Screenshot_2023-02-01-18-34-49-799_com.example.tmdb_app.jpg
